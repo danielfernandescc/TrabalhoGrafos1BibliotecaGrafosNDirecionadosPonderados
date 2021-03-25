@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1511208859 source:c:\users\joaqu\desktop\ufv - computação\quarto período\teoria e modelo de grafos\trabalhos práticos\biblioteca - grafos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MetodosGrafos.h"
+	"MetodosGrafos.c"
+
+1511208869 c:\users\joaqu\desktop\ufv - computação\quarto período\teoria e modelo de grafos\trabalhos práticos\biblioteca - grafos\metodosgrafos.h
+
+1511210093 c:\users\joaqu\desktop\ufv - computação\quarto período\teoria e modelo de grafos\trabalhos práticos\biblioteca - grafos\metodosgrafos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MetodosGrafos.h"
+	<math.h>
+	<time.h>
+
